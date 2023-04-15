@@ -1,5 +1,4 @@
-Visit 
+#Calculator Web App 
+## https://harman-singh-2003.github.io/calculator/
 
-https://harman-singh-2003.github.io/calculator/
-
-to test it
+A calculator website made with JavaScript, CSS and HTML.
